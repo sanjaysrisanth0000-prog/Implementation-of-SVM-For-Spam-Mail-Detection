@@ -79,7 +79,11 @@ plt.show()
 
 ## Output:
 ![SVM For Spam Mail Detection](sam.png)
-
-
+cluster:
+0.    2
+1.    3
+2.    2
+3.    3
+4.    2
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
